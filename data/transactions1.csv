@@ -1,0 +1,10 @@
+TransactionID,Date,StoreID,Category,SalesAmount
+1001,2026-01-01,101,Electronics,250.0
+1002,2026-01-02,101,Clothing,45.0
+1003,2026-01-03,102,Electronics,120.0
+1004,2026-01-04,101,Home,85.0
+1005,2026-01-05,103,Clothing,60.0
+1006,2026-01-06,102,Electronics,310.0
+1007,2026-01-07,103,Home,95.0
+1008,2026-01-08,101,Clothing,50.0
+
